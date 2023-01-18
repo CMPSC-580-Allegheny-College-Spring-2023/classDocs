@@ -11,7 +11,7 @@ This repository contains information about Data Analysis, including the course o
 - [Course Calendar](#Calendar)
 - [`classDocs/`](#Classdocs)
 - [Deliverable](#Course-Deliverable)
-- [Course Description](#Description)
+- [Course Description](#Course-Description)
 - [Textbooks](#Textbooks)
 - [Course Policies](#Policies)
 - [Grading](#Grading)
