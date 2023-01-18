@@ -15,7 +15,8 @@ This repository contains information about Data Analysis, including the course o
 - [Distribution Requirements](#Distribution-Requirements)
 - [suggested Textbooks](#Suggested-Textbooks)
 - [Course Policies](#Course-Policies)
-- [Grading](#Grading)
+- [Grading](#grading)
+- [Assignment Submissions](#Assignment-Submissions)
 - [Assistance](#Assistance)
 - [Schedule](#Schedule)
 
