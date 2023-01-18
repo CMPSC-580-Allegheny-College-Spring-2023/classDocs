@@ -6,7 +6,7 @@ This repository contains information about Data Analysis, including the course o
 
 - [SCHEDULE](#Schedule)
 - [Instructor](#Instructor)
-- [Meeting Times](#Meetings)
+- [Meeting Times](#Meeting-times)
 - [Discord](#Discord)
 - [Course Calendar](#Calendar)
 - [`classDocs/`](#Classdocs)
