@@ -13,7 +13,7 @@ This repository contains information about Data Analysis, including the course o
 - [Deliverable](#Course-Deliverable)
 - [Course Description](#Course-Description)
 - [Distribution Requirements](#Distribution-Requirements)
-- [suggested Textbooks](#Suggested-Textbooks)
+- [Suggested Textbooks](#Suggested-Textbooks)
 - [Course Policies](#Course-Policies)
 - [Grading](#grading)
 - [Assignment Submissions](#Assignment-Submissions)
