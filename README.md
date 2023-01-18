@@ -10,7 +10,7 @@ This repository contains information about Data Analysis, including the course o
 - [Discord](#Discord)
 - [Course Calendar](#Calendar)
 - [`classDocs/`](#Classdocs)
-- [Deliverable](#Deliverable)
+- [Deliverable](#Course-Deliverable)
 - [Course Description](#Description)
 - [Textbooks](#Textbooks)
 - [Course Policies](#Policies)
