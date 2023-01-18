@@ -13,8 +13,8 @@ This repository contains information about Data Analysis, including the course o
 - [Deliverable](#Course-Deliverable)
 - [Course Description](#Course-Description)
 - [Distribution Requirements](#Distribution-Requirements)
-- [Textbooks](#Suggested-Textbooks)
-- [Course Policies](#Policies)
+- [suggested Textbooks](#Suggested-Textbooks)
+- [Course Policies](#Course-Policies)
 - [Grading](#Grading)
 - [Assistance](#Assistance)
 - [Schedule](#Schedule)
@@ -121,7 +121,7 @@ Throughout the semester students will be challenged with serious analytical ques
 
 * Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
 
-## Policies
+## Course Policies
 
 ### Grading
 
