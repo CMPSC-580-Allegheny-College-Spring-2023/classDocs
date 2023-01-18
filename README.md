@@ -60,7 +60,7 @@ Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-301-Allegheny-College
 ## Course Deliverable
 <!-- https://sites.allegheny.edu/registrar/spring-2023-final-exam-schedule/ -->
  * Exam code "D"
- * Due: %th May 2023, 9:00am
+ * Due: 5th May 2023, 9:00am
 
 
 ## Course Description
