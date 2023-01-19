@@ -70,24 +70,6 @@ An introduction to computational methods of data analysis with an emphasis on un
 
 Prerequisite: FS*102 or FS*200, or permission of the instructor. 
 
-
-## Distribution Requirements
-
-The following definitions were taken from the [Distribution Requirement website](https://sites.allegheny.edu/registrar/academic-policies/graduation-requirements/distribution-requirement/).
-
-### Quantitative Reasoning (QR)
-
-* Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
-
- * Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
-
-### Power, Privilege, and Difference (PD)
-
-* Understanding Power, Privilege, and Difference means understanding the role of power, privilege, prejudice, discrimination, stereotypes, inequity, and oppression in human society, in both historical and contemporary contexts, and recognizing these dynamics in the learner’s own life and communities.
-
-* Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of the historical and/or contemporary roles of power, privilege, and difference in human society.
-This course meets the course distribution requirements of QR (Quantitative Reasoning) and PD (Power, Privilege, & Difference) for its use of applying concepts of computer programming to the analysis of public data concerning events where there is a detectable bias at play. In addition, the class aims to introduce an component of ethical reasoning when drawing conclusions.
-
 ## Course Objectives
 
 Students learn to begin and complete an academic research project. In this task, students learn how to;
@@ -112,10 +94,8 @@ Throughout the semester students will be exposed to famous dilemmas in technolog
   + [Book Website](https://r4ds.had.co.nz/)
 
 * Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
-  + [Book Website](https://www.tidytextmining.com/)
 
-* Think Python, first edition, by Allen B. Downey.
-  + [Publisher Website](https://greenteapress.com/wp/)
+  + [Book Website](https://www.tidytextmining.com/)
 
 #### Other Useful Textbooks:
 
@@ -171,7 +151,6 @@ All assignments will have a stated due date. The electronic version of the class
 
 **Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. After that time, the assignment's grade will not be accepted.** 
 
-
 ### Extensions
 
 Unless special arrangements are made with the course instructor, **no assignments will be accepted after the late deadline.** If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a valid reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
@@ -225,7 +204,7 @@ Below is a schedule of covered topics as we cover them, along with their associa
 
 Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
-1 | Jan 17- 20 | Introduction to the course, interests in ideas | Read the syllabus|
+1 | Jan 17- 20 | Introduction to the course. Finding ideas by writing keywords and then searching articles that hinge on these ideas. | Read the syllabus|
 1 | | No lab| N/A |
 2 |  |  | |
 2 || | |
