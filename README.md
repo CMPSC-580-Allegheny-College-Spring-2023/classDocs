@@ -30,7 +30,6 @@ Email: obonhamcarter@allegheny.edu
 
 [Office Hours](https://www.oliverbonhamcarter.com/contactandabout/)
 
-
 ## Meeting Times
 
 |Session | Day      | Time             | Location
@@ -39,12 +38,9 @@ Email: obonhamcarter@allegheny.edu
 |Class   | Thursday | 9:30am - 10:45am | Alden 101
 |Lab     | Monday   | 2:30pm - 4:20pm  | Alden 101
 
-
-
 ### Discord
 
 If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#data-analytics`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
-
 
 ### Calendar
 
@@ -61,7 +57,6 @@ Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-301-Allegheny-College
 <!-- https://sites.allegheny.edu/registrar/spring-2023-final-exam-schedule/ -->
  * Exam code "D"
  * Due: 5th May 2023, 9:00am
-
 
 ## Course Description
 Credits: 4
