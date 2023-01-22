@@ -200,9 +200,11 @@ Below is a schedule of covered topics as we cover them, along with their associa
 
 Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
-1 | Jan 17- 20 | Introduction to the course. Finding ideas by writing keywords and then searching articles that hinge on these ideas. | Read the syllabus|
+1 | Jan 17- 20 | Introduction to the course. Finding ideas by writing keywords and then searching articles that hinge on these ideas | Read the syllabus|
 1 | | No lab| N/A |
-2 |  |  | |
-2 || | |
-3 |  |  | |
+2 | 23 - 27 Jan | Ideas for research, choosing relevant key words, locating articles, and presenting ideas  | hand outs|
+2 || presentation time | n/a |
+3 | 30 Jan - 3 Feb | Online Research Notebooks using Hugo web servers | hand out, tutorial from class|
 3 || | |
+4 |  |  | |
+4 || | |
