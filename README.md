@@ -202,7 +202,7 @@ Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
 1 | Jan 17- 20 | Introduction to the course. Finding ideas by writing keywords and then searching articles that hinge on these ideas | Read the syllabus|
 1 | | No lab| N/A |
-2 | 23 - 27 Jan | Ideas for research, choosing relevant key words, locating articles, and presenting ideas. [Assignment 01](https://classroom.github.com/a/EdUxuxyr)  | hand outs|
+2 | 23 - 27 Jan | Ideas for research, choosing relevant key words, locating articles, and presenting ideas. [Assignment 01](https://classroom.github.com/a/EdUxuxyr) Note: you will have to refresh your browser after clicking on this link to see your working repository with your name in the URL.  | hand outs|
 2 || presentation time | n/a |
 3 | 30 Jan - 3 Feb | Online Research Notebooks using Hugo web servers | hand out, tutorial from class|
 3 || | |
