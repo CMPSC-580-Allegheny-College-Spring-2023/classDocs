@@ -205,6 +205,6 @@ Week # | Dates   | Topic | Reading|
 2 | 23 - 27 Jan | Ideas for research, choosing relevant key words, locating articles, and presenting ideas. [Assignment 01](https://classroom.github.com/a/EdUxuxyr) Note: you will have to refresh your browser after clicking on this link to see your working repository with your name in the URL.  | hand outs|
 2 || presentation time | n/a |
 3 | 30 Jan - 3 Feb | Online Research Notebooks using Hugo web servers. [Assignment 02](https://classroom.github.com/a/a7rT2Yx2) | hand out, tutorial from class|
-3 || | |
-4 |  |  | |
-4 || | |
+3 || lightning talk | |
+4 | Using the literature to find valuable ressources. [Assignment 03](https://classroom.github.com/a/WVYVe5w-) |  | |
+4 || lighning talk| |
