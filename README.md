@@ -206,7 +206,7 @@ Week # | Dates   | Topic | Reading|
 2 || presentation time | n/a |
 3 | 30 Jan - 3 Feb | Online Research Notebooks using Hugo web servers. [Assignment 02](https://classroom.github.com/a/a7rT2Yx2) | hand out, tutorial from class|
 3 || lightning talk | |
-4 | 6 Feb - 10 Feb | Using the literature to find valuable ressources. [Assignment 03](https://classroom.github.com/a/WVYVe5w-)  | |
+4 | 6 Feb - 10 Feb | Using the literature to find valuable resources. [Assignment 03](https://classroom.github.com/a/WVYVe5w-)  | |
 4 || lighning talk| |
 5 ||  | |
 5 ||  | |
