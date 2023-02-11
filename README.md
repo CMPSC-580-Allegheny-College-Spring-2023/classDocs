@@ -196,7 +196,7 @@ Types of computer hardware and software are everywhere! Conducting research in c
 
 ### Schedule
 
-Below is a schedule of covered topics as we cover them, along with their associated activities.
+Below is a **tentative** schedule of covered topics as we cover them, along with their associated activities.
 
 Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
@@ -208,7 +208,16 @@ Week # | Dates   | Topic | Reading|
 3 || lightning talk | |
 4 | 6 Feb - 10 Feb | Using the literature to find valuable resources. [Assignment 03](https://classroom.github.com/a/WVYVe5w-)  | |
 4 || lightning talk| |
-5 ||  | |
-5 ||  | |
+5 || Working day | |
+5 || Working | |
+6 || What's the gap?! Where does the knowledge end to begin your project. Assignment 04 | |
 6 ||  | |
-6 ||  | |
+7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? Assignment 5 | |
+7 ||  | |
+8 || Prototype: Build something to show how your completed project will look. Assignment 6| |
+8 ||  | |
+9 || Finding readers for our senior year. Which faculty members will be best for our project work? | |
+9 ||  | |
+10 || Final Product: Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. | |
+10 ||  | |
+
