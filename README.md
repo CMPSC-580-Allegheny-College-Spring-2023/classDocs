@@ -208,8 +208,8 @@ Week # | Dates   | Topic | Reading|
 3 || lightning talk | |
 4 | 6 Feb - 10 Feb | Using the literature to find valuable resources. [Assignment 03](https://classroom.github.com/a/WVYVe5w-)  | |
 4 || lightning talk| |
-5 || Working day | |
-5 || Working | |
+5 || The-See-It-To-Be-It Thesis Exploration [Assignment 04](https://forms.gle/JLBEpoydnf7h3Z5E6) Note, in addition to finding theses in the storage room of the Dept of CS, others (including the Dept of INFM) may be found at [D-Space](https://dspace.allegheny.edu/handle/10456/7961). Be sure to log in. | |
+5 || Working in class, interviews with your colleague(s) about their thesis study project. | |
 6 || What's the gap?! Where does the knowledge end to begin your project. Assignment 04 | |
 6 ||  | |
 7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? Assignment 05 | |
