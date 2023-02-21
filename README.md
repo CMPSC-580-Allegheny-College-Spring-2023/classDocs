@@ -212,14 +212,14 @@ Week # | Dates   | Topic | Reading|
 5 || Working in class, interviews with your colleague(s) about their thesis study project. | |
 6 || What's the gap?! Where does the knowledge end to begin your project. [Assignment 05](https://classroom.github.com/a/xF8Gbyhf) | |
 6 ||  | |
-7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? Assignment 05 | |
+7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? Assignment 0 | |
 7 ||  | |
-8 || Prototype: Build something to show how your completed project will look. Assignment 06| |
+8 || Prototype: Build something to show how your completed project will look. Assignment 0| |
 8 ||  | |
-9 || Finding readers for our senior year. Which faculty members will be best for our project work? Assignment 07 | |
+9 || Finding readers for our senior year. Which faculty members will be best for our project work? Assignment 0 | |
 9 ||  | |
-10 || Experimental work: Can your prototype fit the build of your project? Assignemnt 08 | |
+10 || Experimental work: Can your prototype fit the build of your project? Assignemnt 0 | |
 10 ||  | |
-11 || Final Product: Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. Assignment 09| |
+11 || Final Product: Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. Assignment 0| |
 11 ||  | |
 
