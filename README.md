@@ -1,4 +1,4 @@
-# Junior Seminar (CMPSC 580 / INFM 580) Course Syllabus
+# Junior Seminar (CMPSC 580) Course Syllabus
 
 This repository contains information about Data Analysis, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
