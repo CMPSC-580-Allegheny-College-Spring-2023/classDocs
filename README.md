@@ -212,7 +212,7 @@ Week # | Dates   | Topic | Reading|
 5 || Working in class, interviews with your colleague(s) about their thesis study project. | |
 6 || What's the gap?! Where does the knowledge end to begin your project. [Assignment 04_Gap](https://classroom.github.com/a/xF8Gbyhf) | |
 6 ||  | |
-7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? Assignment 0 | |
+7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? [Assignment 06_feasibility](https://classroom.github.com/a/LFZZYsIN) | |
 7 ||  | |
 8 || Prototype: Build something to show how your completed project will look. Assignment 0| |
 8 ||  | |
