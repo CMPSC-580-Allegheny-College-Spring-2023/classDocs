@@ -214,7 +214,7 @@ Week # | Dates   | Topic | Reading|
 6 ||  | |
 7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? [Assignment 06_feasibility](https://classroom.github.com/a/LFZZYsIN) | |
 7 ||  | |
-8 || Prototype: Build something to run experiments, and to to showcase an inportant part of a completed project. [Assignment 07 prototype](https://classroom.github.com/a/fAraHjER)| |
+8 || Prototype: Build something to run experiments, and to to showcase an inportant part of a completed project. [Assignment 07_prototype](https://classroom.github.com/a/fAraHjER)| |
 8 ||  | |
 9 || Finding readers for our senior year. Which faculty members will be best for our project work? Assignment 0 | |
 9 ||  | |
