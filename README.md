@@ -216,7 +216,7 @@ Week # | Dates   | Topic | Reading|
 7 ||  | |
 8 || Prototype: Build something to run experiments, and to to showcase an inportant part of a completed project. [Assignment 07_prototype](https://classroom.github.com/a/fAraHjER)| |
 8 ||  | |
-9 || Finding readers for our senior year. Which faculty members will be best for our project work? Form survey [Assignment 08_reader](https://forms.gle/26vWaDD93Pk6nHhy6) | |
+9 || Finding readers for our senior year. Which faculty members will be best for our project work? [Assignment 08_reader](https://forms.gle/26vWaDD93Pk6nHhy6) form survey | |
 9 ||  | |
 10 || Experimental work: Can your prototype fit the build of your project? Assignemnt 0 | |
 10 ||  | |
