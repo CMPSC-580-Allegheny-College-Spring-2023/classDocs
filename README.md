@@ -218,7 +218,7 @@ Week # | Dates   | Topic | Reading|
 8 ||  | |
 9 || Finding readers for our senior year. Which faculty members will be best for our project work? [Assignment 08_reader](https://forms.gle/26vWaDD93Pk6nHhy6) form survey | |
 9 ||  | |
-10 || Experimental work: Can your prototype fit the build of your project? Assignemnt 0 | |
+10 || Experimental work: Can your prototype fit the build of your project? Assignemnt 09 | |
 10 ||  | |
 11 || Final Product: Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. Assignment 0| |
 11 ||  | |
