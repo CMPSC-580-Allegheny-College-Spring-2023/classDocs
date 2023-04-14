@@ -198,28 +198,28 @@ Types of computer hardware and software are everywhere! Conducting research in c
 
 Below is a **tentative** schedule of covered topics as we cover them, along with their associated activities.
 
-Week # | Dates   | Topic | Reading|
----------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
-1 | Jan 17- 20 | Introduction to the course. Finding ideas by writing keywords and then searching articles that hinge on these ideas | Read the syllabus|
-1 | | No lab| N/A |
+Week # | Dates   | Topic |
+---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+1 | Jan 17- 20 | Introduction to the course. Finding ideas by writing keywords and then searching articles that hinge on these ideas |
+1 | | No lab|
 2 | 23 - 27 Jan | Ideas for research, choosing relevant key words, locating articles, and presenting ideas. [Assignment 01](https://classroom.github.com/a/EdUxuxyr) Note: you will have to refresh your browser after clicking on this link to see your working repository with your name in the URL.  | hand outs|
-2 || presentation time | n/a |
-3 | 30 Jan - 3 Feb | Online Research Notebooks using Hugo web servers. [Assignment 02](https://classroom.github.com/a/a7rT2Yx2) | hand out, tutorial from class|
-3 || lightning talk | |
+2 || presentation time |
+3 | 30 Jan - 3 Feb | Online Research Notebooks using Hugo web servers. [Assignment 02](https://classroom.github.com/a/a7rT2Yx2) | 
+3 || lightning talk | 
 4 | 6 Feb - 10 Feb | Using the literature to find valuable resources. [Assignment 03](https://classroom.github.com/a/WVYVe5w-)  | |
-4 || lightning talk| |
-5 | 13 - 17 Feb| The-See-It-To-Be-It Thesis Exploration [Assignment SeeItToBeIt](https://forms.gle/JLBEpoydnf7h3Z5E6) Note, in addition to finding theses in the storage room of the Dept of CS, others (including the Dept of INFM) may be found at [D-Space](https://dspace.allegheny.edu/handle/10456/7961). Be sure to log in. | |
-5 || Working in class, interviews with your colleague(s) about their thesis study project. | |
-6 || What's the gap?! Where does the knowledge end to begin your project. [Assignment 04_Gap](https://classroom.github.com/a/xF8Gbyhf) | |
-6 ||  | |
-7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? [Assignment 06_feasibility](https://classroom.github.com/a/LFZZYsIN) | |
-7 ||  | |
-8 || Prototype: Build something to run experiments, and to to showcase an inportant part of a completed project. [Assignment 07_prototype](https://classroom.github.com/a/fAraHjER)| |
-8 ||  | |
-9 || Finding readers for our senior year. Which faculty members will be best for our project work? [Assignment 08_reader](https://forms.gle/26vWaDD93Pk6nHhy6) form survey | |
-9 ||  | |
-10 || Experimental work: Can your prototype fit the build of your project? [Assignemnt 09_postExperimental](https://classroom.github.com/a/8PMwqKsC) | |
-10 ||  | |
-11 || Final Product: Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. Assignment 0| |
-11 ||  | |
+4 || lightning talk|
+5 | 13 - 17 Feb| The-See-It-To-Be-It Thesis Exploration [Assignment SeeItToBeIt](https://forms.gle/JLBEpoydnf7h3Z5E6) Note, in addition to finding theses in the storage room of the Dept of CS, others (including the Dept of INFM) may be found at [D-Space](https://dspace.allegheny.edu/handle/10456/7961). Be sure to log in. | 
+5 || Working in class, interviews with your colleague(s) about their thesis study project. | 
+6 || What's the gap?! Where does the knowledge end to begin your project. [Assignment 04_Gap](https://classroom.github.com/a/xF8Gbyhf) | 
+6 ||  | 
+7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? [Assignment 06_feasibility](https://classroom.github.com/a/LFZZYsIN) | 
+7 ||  | 
+8 || Prototype: Build something to run experiments, and to to showcase an inportant part of a completed project. [Assignment 07_prototype](https://classroom.github.com/a/fAraHjER)| 
+8 ||  | 
+9 || Finding readers for our senior year. Which faculty members will be best for our project work? [Assignment 08_reader](https://forms.gle/26vWaDD93Pk6nHhy6) form survey | 
+9 ||  | 
+10 || Experimental work: Can your prototype fit the build of your project? [Assignemnt 09_postExperimental](https://classroom.github.com/a/8PMwqKsC) | 
+10 ||  | 
+11 || Final Product: Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. | 
+11 ||  | 
 
