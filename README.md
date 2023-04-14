@@ -209,16 +209,16 @@ Week # | Dates   | Topic |
 4 | 6 Feb - 10 Feb | Using the literature to find valuable resources. [Assignment 03](https://classroom.github.com/a/WVYVe5w-)  | |
 4 || lightning talk|
 5 | 13 - 17 Feb| The-See-It-To-Be-It Thesis Exploration [Assignment SeeItToBeIt](https://forms.gle/JLBEpoydnf7h3Z5E6) Note, in addition to finding theses in the storage room of the Dept of CS, others (including the Dept of INFM) may be found at [D-Space](https://dspace.allegheny.edu/handle/10456/7961). Be sure to log in. | 
-5 || Working in class, interviews with your colleague(s) about their thesis study project. | 
-6 || What's the gap?! Where does the knowledge end to begin your project. [Assignment 04_Gap](https://classroom.github.com/a/xF8Gbyhf) | 
-6 ||  | 
-7 || Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? [Assignment 06_feasibility](https://classroom.github.com/a/LFZZYsIN) | 
+5 |20 - 2 March| Working in class, interviews with your colleague(s) about their thesis study project. | 
+6 || What's the gap?! Where does the knowledge end to begin your project. [Assignment 05_Gap](https://classroom.github.com/a/xF8Gbyhf) | 
+6 | |  | 
+7 |14 - 21 March| Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? [Assignment 06_feasibility](https://classroom.github.com/a/LFZZYsIN) | 
 7 ||  | 
-8 || Prototype: Build something to run experiments, and to to showcase an inportant part of a completed project. [Assignment 07_prototype](https://classroom.github.com/a/fAraHjER)| 
+8 |21 March - 4 April | Prototype: Build something to run experiments, and to to showcase an important part of a completed project. [Assignment 07_prototype](https://classroom.github.com/a/fAraHjER)| 
 8 ||  | 
-9 || Finding readers for our senior year. Which faculty members will be best for our project work? [Assignment 08_reader](https://forms.gle/26vWaDD93Pk6nHhy6) form survey | 
+9 | 3 - 10 April | Finding readers for our senior year. Which faculty members will be best for our project work? [Assignment 08_reader](https://forms.gle/26vWaDD93Pk6nHhy6) form survey | 
 9 ||  | 
-10 || Experimental work: Can your prototype fit the build of your project? [Assignemnt 09_postExperimental](https://classroom.github.com/a/8PMwqKsC) | 
+10 |13 - 18 April | Experimental work: Can your prototype fit the build of your project? [Assignemnt 09_postExperimental](https://classroom.github.com/a/8PMwqKsC) | 
 10 ||  | 
 11 || Final Product: Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. | 
 11 ||  | 
