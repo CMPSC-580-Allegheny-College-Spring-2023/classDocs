@@ -210,7 +210,7 @@ Week # | Dates   | Topic |
 4 || lightning talk|
 5 | 13 - 17 Feb| The-See-It-To-Be-It Thesis Exploration [Assignment SeeItToBeIt](https://forms.gle/JLBEpoydnf7h3Z5E6) Note, in addition to finding theses in the storage room of the Dept of CS, others (including the Dept of INFM) may be found at [D-Space](https://dspace.allegheny.edu/handle/10456/7961). Be sure to log in. | 
 5 |20 - 2 March| Working in class, interviews with your colleague(s) about their thesis study project. | 
-6 || What's the gap?! Where does the knowledge end to begin your project. [Assignment 05_Gap](https://classroom.github.com/a/xF8Gbyhf) | 
+6 | 21 Feb - 2 March| What's the gap?! Where does the knowledge end to begin your project. [Assignment 05_Gap](https://classroom.github.com/a/xF8Gbyhf) | 
 6 | |  | 
 7 |14 - 21 March| Scope and Feasibility: Is your idea feasible? Can you complete it in the time we have? [Assignment 06_feasibility](https://classroom.github.com/a/LFZZYsIN) | 
 7 ||  | 
