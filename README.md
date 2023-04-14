@@ -218,7 +218,7 @@ Week # | Dates   | Topic |
 8 ||  | 
 9 | 3 - 10 April | Finding readers for our senior year. Which faculty members will be best for our project work? [Assignment 08_reader](https://forms.gle/26vWaDD93Pk6nHhy6) form survey | 
 9 ||  | 
-10 |13 - 18 April | Experimental work: Can your prototype fit the build of your project? [Assignemnt 09_postExperimental](https://classroom.github.com/a/8PMwqKsC) | 
+10 |13 - 18 April | Experimental work: Can your prototype fit the build of your project? [Assignment 09_postExperimental](https://classroom.github.com/a/8PMwqKsC) | 
 10 ||  | 
 11 || Final Product: Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. | 
 11 ||  | 
