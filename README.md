@@ -220,6 +220,6 @@ Week # | Dates   | Topic |
 9 ||  | 
 10 |13 - 18 April | Experimental work: Can your prototype fit the build of your project? [Assignment 09_postExperimental](https://classroom.github.com/a/8PMwqKsC) | 
 10 ||  | 
-11 | 17 - 21 April| [Reader Assignments](https://docs.google.com/spreadsheets/d/14vXh72-RuGT5bwMQKf3ibxeU6QnI1Cg_hdxvYD0Ju90/edit?usp=sharing), Final Product: Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. | 
+11 | 17 - 21 April| [Reader Assignments](https://docs.google.com/spreadsheets/d/14vXh72-RuGT5bwMQKf3ibxeU6QnI1Cg_hdxvYD0Ju90/edit?usp=sharing), [Final Deliverable](https://classroom.github.com/a/qhLky9xa): Putting all the above ideas to gether to tell a story of all parts of your project, from beginning to the completion. | 
 11 ||  | 
 
